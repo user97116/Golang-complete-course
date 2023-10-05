@@ -2,6 +2,8 @@
 
 👋 Greetings, fellow code explorers! Embark on an exhilarating Go programming odyssey with us! In this epic video, we'll delve into 60 must-know Go topics that will elevate your coding game to legendary heights. Whether you're a coding newbie or a seasoned developer, this journey promises excitement, knowledge, and a whole lot of fun!
 
+[![Top G Coder - YouTube Channel](https://img.youtube.com/vi/_YfVifdiFig/0.jpg)](https://www.youtube.com/watch?v=_YfVifdiFig)
+
 # 🔥 Prepare for Adventure:
 - 🌟 Ignite Your Journey: Hello, World!
 - 📦 Treasure Trove: Variables and Data Types
