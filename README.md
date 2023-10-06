@@ -65,5 +65,3 @@
 🏆 Adventure awaits! With hands-on examples, expert insights, and real-world applications, this video is your passport to becoming a Go programming legend.
 
 Don't miss out on this thrilling Go programming adventure! Hit that play button and start your coding odyssey now! 🌟
-
-Feel free to use this YouTube video description and tags as a template, and adapt them to suit your video's content and style.
